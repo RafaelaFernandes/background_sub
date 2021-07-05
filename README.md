@@ -1,4 +1,4 @@
-# backgroung_removal
+# background_subtraction
 Welcome! You'll need:
 
  - python3
